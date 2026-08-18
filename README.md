@@ -4,7 +4,7 @@ I mainly written this for myself to do my voice exercises and make recordings wh
 
 ## Demo
 
-https://drake7707.github.io/audioanalyzer/
+https://drakarah.github.io/audioanalyzer/
 
 ## Screenshot
 
